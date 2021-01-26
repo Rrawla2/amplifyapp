@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div>New Amplify App</div>
+        <div>New Amplify Demo App</div>
       </header>
     </div>
   );
